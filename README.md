@@ -14,7 +14,7 @@ A task represents a focused unit of work that:
 - Can be tracked and discussed in one issue
 
 > [!IMPORTANT]
-> **This repository is restricted to Open Home Foundation staff and authorized contributors only.**
+> **This repository is restricted to Home Assistant organization members only.**
 >
 > Community members should submit feature requests to the [Feature Requests repository](https://github.com/home-assistant/feature-requests), where they will be reviewed by the product team and potentially incorporated into roadmap opportunities.
 >
